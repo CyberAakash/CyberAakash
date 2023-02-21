@@ -1,8 +1,8 @@
-- ✨ Hi, I’m @CyberAakash.
+- ✨ Hi, I’m Aakash.
 - ✨ I’m React Developer and Designer.
 - ✨ I’m currently persuing B.E.Computer Sceince and Engineering in Mepco Schlenk Engineering College.
 - ✨ I'm also good in linux tools and commands.
-- ✨ I’m looking to collaborate on National Security and Top Recruiting Companies.
+- ✨ I’m looking to collaborate on Full Stack Company.
 - ✨ Reach me on email   : aakashvnth@gmail.com
 - ✨ Contact me on phone : 9384296895 
 
