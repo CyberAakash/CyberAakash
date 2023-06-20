@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://github.com/CyberAakash/MyStackImages/blob/main/banner.png">
+<img align="center" alt="Coding" width="100%" src="https://github.com/CyberAakash/MyStackImages/blob/main/banner.png">
 
 
 - ✨ Hi, I’m Aakash.
