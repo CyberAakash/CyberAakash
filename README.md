@@ -9,11 +9,16 @@
 - ✨ Reach me on email   : aakashvnth@gmail.com
 - ✨ Contact me on phone : 9384296895
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CyberAakash&theme=ocean-gradient&border_radius=25&card_width=600)](https://git.io/streak-stats)
+<div style="display:flex; gap:4; width:100%;">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CyberAakash&theme=ocean-gradient&border_radius=25&card_width=600)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberAakash&show_icons=true&theme=transparent)
+</div>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberAakash&no-bg=true&theme=onedark&row=2&column=3&title=Commits,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberAakash&show_icons=true&theme=transparent)
+
 
 <!---
 CyberAakash/CyberAakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
