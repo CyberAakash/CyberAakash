@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberAakash&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberAakash&no-bg=true&theme=onedark&row=2&column=3&title=Commits,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 - ✨ Hi, I’m Aakash.
