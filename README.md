@@ -33,7 +33,15 @@
 
 <div align="center">
 
-### It's time for my Intro !
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br/><br/>
+
+</div>
+
+<div align="center">
+
+<h1>Introduce me</h1>
 
 I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Full stack 🕸️ and working on my Data Structures and Algorithms 🤓.
 
