@@ -105,15 +105,6 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
     </p>
 </div><br />
 
-<div>
-
-### My Badges Earned
-<!--START_SECTION:badges-->
-[![Redhat System Administrator](https://images.credly.com/size/120x120/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)](https://www.credly.com/badges/14b5ed7f-e85a-4dd0-a7f1-2f781327535e/linked_in?t=rskgz1 "Red Hat® Certified System Administrator (RHCSA®)")
-<!--END_SECTION:badges-->
-
-</div>
-
 
 <div align="left">
 
@@ -123,8 +114,28 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
 - 🖼️ &nbsp; Designing my idea.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-</div>
+</div><br />
 
+<hr />
+<h3 align="center">My Badges Earned</h3>
+<!--START_SECTION:badges-->
+<div  align="center" style="display: flex; align-items:center; justify-content:center;">
+
+
+[![Redhat System Administrator](https://images.credly.com/size/120x120/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)](https://www.credly.com/badges/14b5ed7f-e85a-4dd0-a7f1-2f781327535e/linked_in?t=rskgz1 "Red Hat® Certified System Administrator (RHCSA®)") [![More Kotlin fundamentals](https://developers.google.com/static/profile/badges/playlists/android/android-basics-compose-unit-3-pathway-1/badge.svg)](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-3-pathway-1/ "Android Basics with Compose — More Kotlin fundamentals")
+<!--END_SECTION:badges-->
+
+</div>
+<hr />
+
+<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cyberaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberaakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyberaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberaakash" height="30" width="40" /></a>
+<a href="https://instagram.com/cyberaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberaakash" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberaakash" height="30" width="40" /></a> -->
+</p>
 
 
 <br /><br />
