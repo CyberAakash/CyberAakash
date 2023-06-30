@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-selvarajan/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YogeshS66320455)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yogesh_photography24/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917418975931)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cyberaakash/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/VanithaAakash)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/cyberaakash/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919384296895)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=cyberaakash alt=cyberaakash/> </p>
 
-<p align="left"> <a href="https://twitter.com/cyberaakash" target="blank"><img src="https://img.shields.io/twitter/follow/cyberaakash?logo=twitter&style=for-the-badge" alt="cyberaakash" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VanithaAakash" target="blank"><img src="https://img.shields.io/twitter/follow/VanithaAakash?logo=twitter&style=for-the-badge" alt="VanithaAakash" /></a> </p>
 
 <!-- - 🤔 I’m looking for help with [Blockchain Research](https://github.com/rahuldkjain/github-profile-readme-generator) -->
 
@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [cyberaakash](https://cyberaakash.vercel.app)
 
-- 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshselvarajan/issues/2)
+<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/) -->
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
